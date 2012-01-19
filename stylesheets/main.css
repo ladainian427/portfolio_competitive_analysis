@@ -5,3 +5,13 @@ background-color: #FFFFFF
 h2{
 font-size: 40px
 }
+
+h1{font-family: Harrington
+}
+
+.navdirectory{
+	font-family: Lucida Console;
+	font-size: 40px;
+	background-color: #FFFFFF;
+	font-weight: bold;
+}
